@@ -1,4 +1,4 @@
-# IT-Support-Ticket-Trends-excel-Project-2
+# IT-Support-Ticket-Trends-excel
 
 Project
 
